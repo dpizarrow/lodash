@@ -1,6 +1,6 @@
 # lodash
 
-- This repo contains some basic implementations of a few lodash.js methods. These are:
+- Basic implementations of a few lodash.js methods. These are:
 
   - `.clamp()`: This method Clamps a number within a lower and upper bound.
   - `.inRange()`: checks to see if the provided number falls within the range specified by the start and end values.
